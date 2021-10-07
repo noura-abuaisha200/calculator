@@ -1,0 +1,26 @@
+table {
+border: double; 
+height: 50%;
+width: 20%; 
+
+
+}
+td.b {
+    background-color: #3f248a;
+  }
+  
+input[type="button"] {
+    background-color: #fdfdfd;
+    color: rgb(5, 5, 5);
+    border: solid black 2px;
+    width: 100%;
+    height: 100%;
+  }
+
+input[type="text"] {
+  background-color: rgb(226, 217, 217);
+  border: double black 2px;
+  height: 100%;
+  width: 222px;
+}
+
